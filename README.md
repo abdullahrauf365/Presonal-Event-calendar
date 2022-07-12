@@ -5,7 +5,9 @@ To run this project, you must have to installed XAMPP on your PC.
 After Starting Apache and MySQL in XAMPP, follow the following steps
 
 1st Step: Download Zip file “Presonal-Event-calendar-main.zip” from Git Hub & Extract them.
+
 2nd Step: Copy the main project folder “Calendar”.
+
 3rd Step: Paste in Xampp/htdocs/
 
 Now Setup Connection for Database
